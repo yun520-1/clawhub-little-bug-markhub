@@ -1,0 +1,8 @@
+{
+  "name": "markhub",
+  "version": "2.0.0",
+  "description": "MarkHub - 简单实用的 AI 图像生成器",
+  "author": "MarkHub Team",
+  "license": "MIT-0",
+  "main": "main.py"
+}
